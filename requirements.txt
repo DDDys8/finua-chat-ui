@@ -8,4 +8,5 @@ langchain-community
 sentence-transformers
 gspread
 pandas
-numpy==1.24.4   # ← ここを追加！
+numpy==1.24.4
+
